@@ -1,0 +1,15 @@
+h2 {
+  font-size: 3em;
+  text-align: center;
+  font-family: "Courier New";
+}
+
+h2 sup {
+  font-size: .25em;
+  top: -2.5em;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.75em;
+}
